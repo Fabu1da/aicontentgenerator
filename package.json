@@ -11,7 +11,9 @@
     "dev": "nodemon src/app.ts"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "openai": "^6.38.0"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
