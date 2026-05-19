@@ -35,4 +35,13 @@ router.post("/generateStory",  async (req:Request, res:Response) => {
 
 });
 
+// TODO.
+/*
+1- Save the story in the database
+2- Create an endpoint to retrieve the saved stories
+3- try to use openAI to generate the thumbnail for the story, 
+and save it in the database as well, 
+and return it with the story when retrieving the saved stories.
+*/
+
 module.exports = router;

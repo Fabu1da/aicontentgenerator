@@ -1,6 +1,15 @@
 export const aiModel = "gpt-4o-mini";
 
 export const prompt = (promptContext: { context: string; length: number }) =>{
+
+
+    //TODO:
+    /*
+    1- Understand prompts
+    2- Adjust Generate story prompt to make more intresting/Professional
+
+    */
+
     return `
 You are a storyteller. 
 

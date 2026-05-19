@@ -11,7 +11,7 @@ NodeJs(Typescript), ExpressJs, MongoDB
 - Generating story
   - AI (OpenAI)
   - MakeStory(aiModel, Context):
-  - Prompt (You are an expart in story telling ......)
+  - Prompt (You are an expart in story telling ......) (GAELLE: -Learn about prompts, adjust our prompt)
 
 (User Feature is active)-- Last step
 -- Should
